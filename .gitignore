@@ -12,5 +12,5 @@ example3/build
 *.eml
 *.ipr
 *.iws
-.idea/
+/.idea/workspace.xml
 out
